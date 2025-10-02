@@ -1,5 +1,5 @@
 import json
-
+#python traduction.py -> dans le cas ou le scripts est dissident
 def conversion(txt_path, json_path):
     dictionnaire = []
     with open(txt_path, 'r', encoding='utf-8') as f:

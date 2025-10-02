@@ -51,7 +51,7 @@ OU;commuter / passer d'un état à un autre;to switch
 ET;lâcher, abandonner;to drop
 ET;épine dorsale;backbone
 ET;à distance;remote
-ET;ni...ni...;neither...nor...
+ET;ni...ni...;neither...or...
 ET;parler de;to deal with
 ET;donc, alors;therefore
 OU;donner / fournir;to provide

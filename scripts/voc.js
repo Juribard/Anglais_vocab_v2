@@ -284,7 +284,7 @@ const dictionnaire = [
     {
         "type": "ET",
         "m_fr": "ni...ni...",
-        "m_en": "neither...nor..."
+        "m_en": "neither...or..."
     },
     {
         "type": "ET",
