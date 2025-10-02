@@ -1,0 +1,79 @@
+ET;partager;to share
+ET;aucun;none
+OU;réponse; response / reply
+ET;entrer en relation;to interrelate
+ET;annuler;to override
+ET;efficace;efficient
+ET;rassembler;to gather
+ET;chaque;each
+ET;empêcher de faire;to prevent from
+ET;propre, à soi;own
+OU;signifier, vouloir dire; to stand for / to mean, meant, meant
+ET;simple, franc;straighforward
+ET;effectuer, réaliser; to perform
+ET;pour que, afin que;so that
+ET;à double sens, bilatéral; two way
+ET;totalement;fully
+ET;aussi;also
+ET;provoquer, pousser à;to prompt
+ET;étape;stage
+ET;précis, fidèle, exact;accurate
+ET;ou...ou...;either...or...
+ET;tailler, élaguer, réduire;to prune
+ET;en tant que tel;as such
+ET;pendant que;while
+ET;largeur de bande;bandwidth
+OU;résumer / récapituler; to summerize
+ET;caractéristique;feature
+ET;être en attente;to await
+ET;appartenir;to belong
+ET;les quelques chapitres suivants;next few chapters
+OU;échouer / tomber en panne;to fail
+ET;évident;obvious
+ET;relation;relationship
+ET;dépanner;to troubleshot
+ET;auto évaluation;self-assessment
+ET;avoir l'intention de;to intend to
+ET;voisin;neighbor
+ET;plus loin;further
+ET;deviner;to guss
+ET;s'assurer de, to ensure
+OU;inonder / noyer / irriguer;to flood
+ET;autrement;otherwoise
+ET;faire suivre, expédier;to forward
+ET;atteindre, réaliser;to achieve
+ET;à chaque fois que;whenever
+ET;précédent;previous
+ET;déjà;already
+ET;maitrise;mastery
+OU;biaiser / fausser;to skew
+OU;commuter / passer d'un état à un autre;to switch
+ET;lâcher, abandonner;to drop
+ET;épine dorsale;backbone
+ET;à distance;remote
+ET;ni...ni...;neither...nor...
+ET;parler de;to deal with
+ET;donc, alors;therefore
+OU;donner / fournir;to provide
+ET;esquisser, indiquer;to outline
+OU;comprehension;comprehension / understanding
+OU;un but;a purpose / a goal
+ET;ce n'est pas la peine;there is no need
+OU;reconnaissance / constatation / accusé de réception;acknowledgment
+Et;quoi que ce soit d'autre;abything else
+ET;avec quelle fréquencehow often
+ET;connaissance;knowledge
+ET;au sein de;within
+ET;principale;major
+OU;mesurer / évaluer;to gauge
+ET;avoir des difficulter;to have a trouble
+OU;présumer / supposer;to assumer
+ET;sans fil;wireless
+Et;numérique;digital
+OU;merveille;marvel /wonder
+ET;maniscrit;handwritten
+ET;retranscrire;to retransbride
+ET;sans;without
+ET;en effet;indeed
+Et;pas besoin de;no need to
+ET;pianoter;to tap away
