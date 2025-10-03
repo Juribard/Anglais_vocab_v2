@@ -71,7 +71,7 @@ OU;présumer / supposer;to assumer
 ET;sans fil;wireless
 Et;numérique;digital
 OU;merveille;marvel /wonder
-ET;maniscrit;handwritten
+ET;manuscrit;handwritten
 ET;retranscrire;to retransbride
 ET;sans;without
 ET;en effet;indeed

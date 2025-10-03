@@ -400,7 +400,7 @@ const dictionnaire = [
     },
     {
         "type": "ET",
-        "m_fr": "maniscrit",
+        "m_fr": "manuscrit",
         "m_en": "handwritten"
     },
     {
