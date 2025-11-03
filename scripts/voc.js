@@ -477,7 +477,7 @@ const dictionnaire = [
     {
         "type": "ET",
         "m_fr": "penser",
-        "m_en": "to think,thought,thought"
+        "m_en": "to think, thought, thought"
     },
     {
         "type": "ET",

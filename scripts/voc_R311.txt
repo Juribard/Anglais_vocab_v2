@@ -84,7 +84,7 @@ OU;magazin / entrepot;a store
 ET;arriver;to get,got, got
 ET;une signification;a meaning
 ET;un ruisseau;a brook
-ET;penser;to think,thought,thought
+ET;penser;to think, thought, thought
 ET;une pensée;a thought
 ET;plein de doute;misgiven
 ET;se demander;to wonder
