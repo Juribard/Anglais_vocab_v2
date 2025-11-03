@@ -110,3 +110,26 @@ ET;changer de ton;to sing another tune
 ET;nettoyage de printemps;spring clean
 ET;mentir;to lie
 ET;allonger;to lie lay lain
+ET;études de troisième cycle / études postuniversitaires;postgraduate studies
+ET;cours en ligne gratuits;free online classes
+ET;travail numérique;digital work
+ET;origine ouvrière / milieu ouvrier;working-class background
+ET;défi pour les entreprises;challenge for companie
+ET;robots industriels programmables;programmable industrial robots
+ET;déchets électroniques;electronic waste
+ET;les trois lois de la robotique;the three laws of robotics
+ET;Afrique alternative non colonisée;alternative uncolonized Africa
+ET;idées qui méritent d’être diffusées;ideas worth spreadin
+ET;conditions de vie épouvantables;dreadful living conditions
+ET;forte densité de population;high density of citizens
+ET;loi sur les droits civiques;civil Rights Act
+ET;méfiance envers la démocratie;distrust in democrac
+ET;détérioration de l’accès à l’information pour les citoyens;deterioration of people's access to information
+ET;magnat des médias;media tycoon
+ET;opérations de dissimulation pendant la guerre du Vietnam;cover-up operations during the Vietnam war
+ET;peur;fear
+ET;craindre;to fear
+ET;affrontement mortel;deadly confrontation
+ET;saluer des foules;greet crowds of people
+
+
