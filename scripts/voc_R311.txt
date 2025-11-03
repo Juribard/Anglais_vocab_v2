@@ -61,7 +61,7 @@ OU;un but;a purpose / a goal
 ET;ce n'est pas la peine;there is no need
 OU;reconnaissance / constatation / accusé de réception;acknowledgment
 Et;quoi que ce soit d'autre;abything else
-ET;avec quelle fréquencehow often
+ET;avec quelle fréquence;how often
 ET;connaissance;knowledge
 ET;au sein de;within
 ET;principale;major
@@ -69,7 +69,7 @@ OU;mesurer / évaluer;to gauge
 ET;avoir des difficulter;to have a trouble
 OU;présumer / supposer;to assumer
 ET;sans fil;wireless
-Et;numérique;digital
+ET;numérique;digital
 OU;merveille;marvel /wonder
 ET;manuscrit;handwritten
 ET;retranscrire;to retransbride
@@ -77,3 +77,36 @@ ET;sans;without
 ET;en effet;indeed
 Et;pas besoin de;no need to
 ET;pianoter;to tap away
+OU;briller / scintiller;to glitter
+ET;tout ce qui brille n'est pas or;all that glitters is not gold
+ET;escalier;stairway
+OU;magazin / entrepot;a store
+ET;arriver;to get,got, got
+ET;une signification;a meaning
+ET;un ruisseau;a brook
+ET;penser;to think,thought,thought
+ET;une pensée;a thought
+ET;plein de doute;misgiven
+ET;se demander;to wonder
+ET;un anneau;a ring
+ET;la fumée;smoke
+OU;murmurer / chuchoter;to whisper
+ET;se lever(météo);to dawn
+OU;l'aube / un aurore;dawn
+ET;crepuscule;dusk
+ET;du matin au soir;from dawn to dusk
+ET;rire;to laugh
+ET;un rire;laughter
+ET;un remu ménage;bustle
+ET;une haie;a hedgerow
+ET;un chemin;a path
+ET;bourdonner;to hum
+ET;souffler;to blow, blew, blown
+ET,une ombre;a shadow
+ET;enfin;at last
+ET;au moins;at least
+ET;un air(de musique);a tune
+ET;changer de ton;to sing another tune
+ET;nettoyage de printemps;spring clean
+ET;mentir;to lie
+ET;allonger;to lie lay lain

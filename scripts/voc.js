@@ -346,6 +346,11 @@ const dictionnaire = [
     },
     {
         "type": "ET",
+        "m_fr": "avec quelle fréquence",
+        "m_en": "how often"
+    },
+    {
+        "type": "ET",
         "m_fr": "connaissance",
         "m_en": "knowledge"
     },
@@ -386,7 +391,7 @@ const dictionnaire = [
         "m_en": "wireless"
     },
     {
-        "type": "Et",
+        "type": "ET",
         "m_fr": "numérique",
         "m_en": "digital"
     },
@@ -427,5 +432,177 @@ const dictionnaire = [
         "type": "ET",
         "m_fr": "pianoter",
         "m_en": "to tap away"
+    },
+    {
+        "type": "OU",
+        "m_fr": [
+            "briller",
+            "scintiller"
+        ],
+        "m_en": "to glitter"
+    },
+    {
+        "type": "ET",
+        "m_fr": "tout ce qui brille n'est pas or",
+        "m_en": "all that glitters is not gold"
+    },
+    {
+        "type": "ET",
+        "m_fr": "escalier",
+        "m_en": "stairway"
+    },
+    {
+        "type": "OU",
+        "m_fr": [
+            "magazin",
+            "entrepot"
+        ],
+        "m_en": "a store"
+    },
+    {
+        "type": "ET",
+        "m_fr": "arriver",
+        "m_en": "to get,got, got"
+    },
+    {
+        "type": "ET",
+        "m_fr": "une signification",
+        "m_en": "a meaning"
+    },
+    {
+        "type": "ET",
+        "m_fr": "un ruisseau",
+        "m_en": "a brook"
+    },
+    {
+        "type": "ET",
+        "m_fr": "penser",
+        "m_en": "to think,thought,thought"
+    },
+    {
+        "type": "ET",
+        "m_fr": "une pensée",
+        "m_en": "a thought"
+    },
+    {
+        "type": "ET",
+        "m_fr": "plein de doute",
+        "m_en": "misgiven"
+    },
+    {
+        "type": "ET",
+        "m_fr": "se demander",
+        "m_en": "to wonder"
+    },
+    {
+        "type": "ET",
+        "m_fr": "un anneau",
+        "m_en": "a ring"
+    },
+    {
+        "type": "ET",
+        "m_fr": "la fumée",
+        "m_en": "smoke"
+    },
+    {
+        "type": "OU",
+        "m_fr": [
+            "murmurer",
+            "chuchoter"
+        ],
+        "m_en": "to whisper"
+    },
+    {
+        "type": "ET",
+        "m_fr": "se lever(météo)",
+        "m_en": "to dawn"
+    },
+    {
+        "type": "OU",
+        "m_fr": [
+            "l'aube",
+            "un aurore"
+        ],
+        "m_en": "dawn"
+    },
+    {
+        "type": "ET",
+        "m_fr": "crepuscule",
+        "m_en": "dusk"
+    },
+    {
+        "type": "ET",
+        "m_fr": "du matin au soir",
+        "m_en": "from dawn to dusk"
+    },
+    {
+        "type": "ET",
+        "m_fr": "rire",
+        "m_en": "to laugh"
+    },
+    {
+        "type": "ET",
+        "m_fr": "un rire",
+        "m_en": "laughter"
+    },
+    {
+        "type": "ET",
+        "m_fr": "un remu ménage",
+        "m_en": "bustle"
+    },
+    {
+        "type": "ET",
+        "m_fr": "une haie",
+        "m_en": "a hedgerow"
+    },
+    {
+        "type": "ET",
+        "m_fr": "un chemin",
+        "m_en": "a path"
+    },
+    {
+        "type": "ET",
+        "m_fr": "bourdonner",
+        "m_en": "to hum"
+    },
+    {
+        "type": "ET",
+        "m_fr": "souffler",
+        "m_en": "to blow, blew, blown"
+    },
+    {
+        "type": "ET",
+        "m_fr": "enfin",
+        "m_en": "at last"
+    },
+    {
+        "type": "ET",
+        "m_fr": "au moins",
+        "m_en": "at least"
+    },
+    {
+        "type": "ET",
+        "m_fr": "un air(de musique)",
+        "m_en": "a tune"
+    },
+    {
+        "type": "ET",
+        "m_fr": "changer de ton",
+        "m_en": "to sing another tune"
+    },
+    {
+        "type": "ET",
+        "m_fr": "nettoyage de printemps",
+        "m_en": "spring clean"
+    },
+    {
+        "type": "ET",
+        "m_fr": "mentir",
+        "m_en": "to lie"
+    },
+    {
+        "type": "ET",
+        "m_fr": "allonger",
+        "m_en": "to lie lay lain"
     }
 ];
