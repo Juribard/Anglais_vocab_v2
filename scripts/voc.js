@@ -411,7 +411,7 @@ const dictionnaire = [
     {
         "type": "ET",
         "m_fr": "retranscrire",
-        "m_en": "to retransbride"
+        "m_en": "to retranscribe"
     },
     {
         "type": "ET",

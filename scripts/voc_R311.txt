@@ -72,7 +72,7 @@ ET;sans fil;wireless
 ET;numérique;digital
 OU;merveille;marvel /wonder
 ET;manuscrit;handwritten
-ET;retranscrire;to retransbride
+ET;retranscrire;to retranscribe
 ET;sans;without
 ET;en effet;indeed
 Et;pas besoin de;no need to
