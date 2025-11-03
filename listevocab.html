@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anglais_vocab_v2</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="scripts/voc.js"></script>
+    <script src="scripts/conflistvocab.js"></script>
+</head>
+<body>
+    <div>
+        <button class="bouton_trad" id="btn-back">Retour à l'accueil</button>
+    </div>
+    <h1>Test ton vocabulaire</h1>
+    <h2>Liste de vocabulaire</h2>
+    <!-- Conteneur où la liste sera injectée dynamiquement par scripts/voc.js ou scripts/conflistvocab.js -->
+    <div id="vocab-list" class="vocab-list" aria-live="polite"></div>
+    <script>
+        // navigation retour vers index
+        document.addEventListener('DOMContentLoaded', function() {
+            var btn = document.getElementById('btn-back');
+            if (btn) {
+                btn.addEventListener('click', function() {
+                    window.location.href = 'index.html';
+                });
+            }
+        });
+    </script>
+</body>
+</html>

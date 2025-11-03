@@ -9,6 +9,9 @@
     <script src="scripts/traduction.js"></script>
 </head>
 <body>
+    <div>
+        <button class="bouton_trad" id="btn-trad">Liste de vocabulaire</button>
+    </div>
     <h1>Test ton vocabulaire</h1>
     <form class="formulaire" id="vocab-form">
         <div id="compteur"></div>
@@ -17,5 +20,16 @@
         <div id="feedback"></div>
         <button class="bouton_verif" type="submit">Vérifier</button>
     </form>
+    <script>
+        // navigation vers la page listevocab
+        document.addEventListener('DOMContentLoaded', function() {
+            var btn = document.getElementById('btn-trad');
+            if (btn) {
+                btn.addEventListener('click', function() {
+                    window.location.href = 'listevocab.html';
+                });
+            }
+        });
+    </script>
 </body>
 </html>

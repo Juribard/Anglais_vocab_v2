@@ -26,6 +26,14 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('mot').value = '';
         document.getElementById('feedback').textContent = '';
         document.getElementById('incorrect').textContent = '';
+        // Affiche dans la console la/les traduction(s) attendue(s) pour faciliter le debug
+        try {
+            let solutions = mot.m_en;
+            if (!Array.isArray(solutions)) solutions = [solutions];
+            console.log('[debug] traduction attendue :', solutions.join(' / '));
+        } catch (err) {
+            // ignore
+        }
     }
 
     function majCompteur() {
