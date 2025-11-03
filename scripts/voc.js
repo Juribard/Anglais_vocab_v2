@@ -604,5 +604,116 @@ const dictionnaire = [
         "type": "ET",
         "m_fr": "allonger",
         "m_en": "to lie lay lain"
+    },
+    {
+        "type": "ET",
+        "m_fr": [
+            "études de troisième cycle",
+            "études postuniversitaires"
+        ],
+        "m_en": "postgraduate studies"
+    },
+    {
+        "type": "ET",
+        "m_fr": "cours en ligne gratuits",
+        "m_en": "free online classes"
+    },
+    {
+        "type": "ET",
+        "m_fr": "travail numérique",
+        "m_en": "digital work"
+    },
+    {
+        "type": "ET",
+        "m_fr": [
+            "origine ouvrière",
+            "milieu ouvrier"
+        ],
+        "m_en": "working-class background"
+    },
+    {
+        "type": "ET",
+        "m_fr": "défi pour les entreprises",
+        "m_en": "challenge for companie"
+    },
+    {
+        "type": "ET",
+        "m_fr": "robots industriels programmables",
+        "m_en": "programmable industrial robots"
+    },
+    {
+        "type": "ET",
+        "m_fr": "déchets électroniques",
+        "m_en": "electronic waste"
+    },
+    {
+        "type": "ET",
+        "m_fr": "les trois lois de la robotique",
+        "m_en": "the three laws of robotics"
+    },
+    {
+        "type": "ET",
+        "m_fr": "Afrique alternative non colonisée",
+        "m_en": "alternative uncolonized Africa"
+    },
+    {
+        "type": "ET",
+        "m_fr": "idées qui méritent d’être diffusées",
+        "m_en": "ideas worth spreadin"
+    },
+    {
+        "type": "ET",
+        "m_fr": "conditions de vie épouvantables",
+        "m_en": "dreadful living conditions"
+    },
+    {
+        "type": "ET",
+        "m_fr": "forte densité de population",
+        "m_en": "high density of citizens"
+    },
+    {
+        "type": "ET",
+        "m_fr": "loi sur les droits civiques",
+        "m_en": "civil Rights Act"
+    },
+    {
+        "type": "ET",
+        "m_fr": "méfiance envers la démocratie",
+        "m_en": "distrust in democrac"
+    },
+    {
+        "type": "ET",
+        "m_fr": "détérioration de l’accès à l’information pour les citoyens",
+        "m_en": "deterioration of people's access to information"
+    },
+    {
+        "type": "ET",
+        "m_fr": "magnat des médias",
+        "m_en": "media tycoon"
+    },
+    {
+        "type": "ET",
+        "m_fr": "opérations de dissimulation pendant la guerre du Vietnam",
+        "m_en": "cover-up operations during the Vietnam war"
+    },
+    {
+        "type": "ET",
+        "m_fr": "peur",
+        "m_en": "fear"
+    },
+    {
+        "type": "ET",
+        "m_fr": "craindre",
+        "m_en": "to fear"
+    },
+    {
+        "type": "ET",
+        "m_fr": "affrontement mortel",
+        "m_en": "deadly confrontation"
+    },
+    {
+        "type": "ET",
+        "m_fr": "saluer des foules",
+        "m_en": "greet crowds of people"
     }
 ];
