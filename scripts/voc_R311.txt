@@ -81,7 +81,7 @@ OU;briller / scintiller;to glitter
 ET;tout ce qui brille n'est pas or;all that glitters is not gold
 ET;escalier;stairway
 OU;magazin / entrepot;a store
-ET;arriver;to get,got, got
+ET;arriver;to get, got, got
 ET;une signification;a meaning
 ET;un ruisseau;a brook
 ET;penser;to think, thought, thought

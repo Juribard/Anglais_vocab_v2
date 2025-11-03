@@ -462,7 +462,7 @@ const dictionnaire = [
     {
         "type": "ET",
         "m_fr": "arriver",
-        "m_en": "to get,got, got"
+        "m_en": "to get, got, got"
     },
     {
         "type": "ET",
