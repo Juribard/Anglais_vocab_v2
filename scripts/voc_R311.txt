@@ -114,7 +114,7 @@ ET;études de troisième cycle / études postuniversitaires;postgraduate studies
 ET;cours en ligne gratuits;free online classes
 ET;travail numérique;digital work
 ET;origine ouvrière / milieu ouvrier;working-class background
-ET;défi pour les entreprises;challenge for companie
+ET;défi pour les entreprises;challenge for companies
 ET;robots industriels programmables;programmable industrial robots
 ET;déchets électroniques;electronic waste
 ET;les trois lois de la robotique;the three laws of robotics
