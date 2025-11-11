@@ -36,7 +36,7 @@ ET;auto évaluation;self-assessment
 ET;avoir l'intention de;to intend to
 ET;voisin;neighbor
 ET;plus loin;further
-ET;deviner;to guss
+ET;deviner;to guess
 ET;s'assurer de, to ensure
 OU;inonder / noyer / irriguer;to flood
 ET;autrement;otherwoise
@@ -123,7 +123,7 @@ ET;idées qui méritent d’être diffusées;ideas worth spreadin
 ET;conditions de vie épouvantables;dreadful living conditions
 ET;forte densité de population;high density of citizens
 ET;loi sur les droits civiques;civil Rights Act
-ET;méfiance envers la démocratie;distrust in democrac
+ET;méfiance envers la démocratie;distrust in democracy
 ET;détérioration de l’accès à l’information pour les citoyens;deterioration of people's access to information
 ET;magnat des médias;media tycoon
 ET;opérations de dissimulation pendant la guerre du Vietnam;cover-up operations during the Vietnam war
