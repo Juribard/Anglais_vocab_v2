@@ -634,7 +634,7 @@ const dictionnaire = [
     {
         "type": "ET",
         "m_fr": "défi pour les entreprises",
-        "m_en": "challenge for companie"
+        "m_en": "challenge for companies"
     },
     {
         "type": "ET",
