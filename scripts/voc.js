@@ -71,7 +71,7 @@ const dictionnaire = [
     {
         "type": "Et",
         "m_fr": "notre, mes",
-        "m_en": "our"
+        "m_en": "ours"
     },
     {
         "type": "Et",

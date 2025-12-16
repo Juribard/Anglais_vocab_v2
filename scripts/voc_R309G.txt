@@ -11,7 +11,7 @@ ET;minuit;midnight
 ET;mon, ma, mes;my
 ET;ton, ta, tes;your
 OU;son, sa, ses;his / her / its
-Et;notre, mes; our
+Et;notre, mes; ours
 Et;votre, vos;your
 ET;leur, leurs; their
 ET;la mien, la mienne, les miens, les miennes; mine 
