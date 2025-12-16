@@ -25,12 +25,14 @@ ET;toi-même, vous-même, te t'; yourself
 ET;lui-même, se, s';himself
 OU;elle-même;herself / itself
 ET;nous-même;ourselves
-ET;eux-même, elle-même;themself
+ET;eux-même, elles-même;themself
 ET;moi, à soi, m';me
 ET;toi, à toi, t', vous, à vous;you
 ET;le, lui;him
 ET;la, lui;her
-ET; le, lui, la, lui (=>objet);it 
+ET;le, lui, la, lui (=>objet);it 
+ET;nous, à nous; us
+ET;vous, à vous; you
 ET;eux, à eux, elle, à elle, leurs, les;them
 
 

@@ -147,7 +147,7 @@ const dictionnaire = [
     },
     {
         "type": "ET",
-        "m_fr": "eux-même, elle-même",
+        "m_fr": "eux-même, elles-même",
         "m_en": "themself"
     },
     {
@@ -174,6 +174,16 @@ const dictionnaire = [
         "type": "ET",
         "m_fr": "le, lui, la, lui (=>objet)",
         "m_en": "it"
+    },
+    {
+        "type": "ET",
+        "m_fr": "nous, à nous",
+        "m_en": "us"
+    },
+    {
+        "type": "ET",
+        "m_fr": "vous, à vous",
+        "m_en": "you"
     },
     {
         "type": "ET",
