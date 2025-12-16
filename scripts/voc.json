@@ -1,719 +1,183 @@
 [
     {
-        "type": "ET",
-        "m_fr": "partager",
-        "m_en": "to share"
+        "type": "Ho",
+        "m_fr": "9h",
+        "m_en": "nine"
+    },
+    {
+        "type": "Ho",
+        "m_fr": "9h15",
+        "m_en": "quarter past nine"
+    },
+    {
+        "type": "Ho",
+        "m_fr": "9h45",
+        "m_en": "quarter to ten"
+    },
+    {
+        "type": "Ho",
+        "m_fr": "9h30",
+        "m_en": "half past nine"
+    },
+    {
+        "type": "Ho",
+        "m_fr": "9h \"pile\"",
+        "m_en": "nine on the dot"
+    },
+    {
+        "type": "Ho",
+        "m_fr": "9h20",
+        "m_en": "twenty past nine"
+    },
+    {
+        "type": "Ho",
+        "m_fr": "9h40",
+        "m_en": "twenty to ten"
+    },
+    {
+        "type": "Ho",
+        "m_fr": "9h03",
+        "m_en": "three minutes past nine"
     },
     {
         "type": "ET",
-        "m_fr": "aucun",
-        "m_en": "none"
+        "m_fr": "midi",
+        "m_en": "noon"
+    },
+    {
+        "type": "ET",
+        "m_fr": "minuit",
+        "m_en": "midnight"
+    },
+    {
+        "type": "ET",
+        "m_fr": "mon, ma, mes",
+        "m_en": "my"
+    },
+    {
+        "type": "ET",
+        "m_fr": "ton, ta, tes",
+        "m_en": "your"
     },
     {
         "type": "OU",
-        "m_fr": "réponse",
+        "m_fr": "son, sa, ses",
         "m_en": [
-            "response",
-            "reply"
+            "his",
+            "her",
+            "its"
         ]
-    },
-    {
-        "type": "ET",
-        "m_fr": "entrer en relation",
-        "m_en": "to interrelate"
-    },
-    {
-        "type": "ET",
-        "m_fr": "annuler",
-        "m_en": "to override"
-    },
-    {
-        "type": "ET",
-        "m_fr": "efficace",
-        "m_en": "efficient"
-    },
-    {
-        "type": "ET",
-        "m_fr": "rassembler",
-        "m_en": "to gather"
-    },
-    {
-        "type": "ET",
-        "m_fr": "chaque",
-        "m_en": "each"
-    },
-    {
-        "type": "ET",
-        "m_fr": "empêcher de faire",
-        "m_en": "to prevent from"
-    },
-    {
-        "type": "ET",
-        "m_fr": "propre, à soi",
-        "m_en": "own"
-    },
-    {
-        "type": "OU",
-        "m_fr": "signifier, vouloir dire",
-        "m_en": [
-            "to stand for",
-            "to mean, meant, meant"
-        ]
-    },
-    {
-        "type": "ET",
-        "m_fr": "simple, franc",
-        "m_en": "straighforward"
-    },
-    {
-        "type": "ET",
-        "m_fr": "effectuer, réaliser",
-        "m_en": "to perform"
-    },
-    {
-        "type": "ET",
-        "m_fr": "pour que, afin que",
-        "m_en": "so that"
-    },
-    {
-        "type": "ET",
-        "m_fr": "à double sens, bilatéral",
-        "m_en": "two way"
-    },
-    {
-        "type": "ET",
-        "m_fr": "totalement",
-        "m_en": "fully"
-    },
-    {
-        "type": "ET",
-        "m_fr": "aussi",
-        "m_en": "also"
-    },
-    {
-        "type": "ET",
-        "m_fr": "provoquer, pousser à",
-        "m_en": "to prompt"
-    },
-    {
-        "type": "ET",
-        "m_fr": "étape",
-        "m_en": "stage"
-    },
-    {
-        "type": "ET",
-        "m_fr": "précis, fidèle, exact",
-        "m_en": "accurate"
-    },
-    {
-        "type": "ET",
-        "m_fr": "ou...ou...",
-        "m_en": "either...or..."
-    },
-    {
-        "type": "ET",
-        "m_fr": "tailler, élaguer, réduire",
-        "m_en": "to prune"
-    },
-    {
-        "type": "ET",
-        "m_fr": "en tant que tel",
-        "m_en": "as such"
-    },
-    {
-        "type": "ET",
-        "m_fr": "pendant que",
-        "m_en": "while"
-    },
-    {
-        "type": "ET",
-        "m_fr": "largeur de bande",
-        "m_en": "bandwidth"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "résumer",
-            "récapituler"
-        ],
-        "m_en": "to summerize"
-    },
-    {
-        "type": "ET",
-        "m_fr": "caractéristique",
-        "m_en": "feature"
-    },
-    {
-        "type": "ET",
-        "m_fr": "être en attente",
-        "m_en": "to await"
-    },
-    {
-        "type": "ET",
-        "m_fr": "appartenir",
-        "m_en": "to belong"
-    },
-    {
-        "type": "ET",
-        "m_fr": "les quelques chapitres suivants",
-        "m_en": "next few chapters"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "échouer",
-            "tomber en panne"
-        ],
-        "m_en": "to fail"
-    },
-    {
-        "type": "ET",
-        "m_fr": "évident",
-        "m_en": "obvious"
-    },
-    {
-        "type": "ET",
-        "m_fr": "relation",
-        "m_en": "relationship"
-    },
-    {
-        "type": "ET",
-        "m_fr": "dépanner",
-        "m_en": "to troubleshot"
-    },
-    {
-        "type": "ET",
-        "m_fr": "auto évaluation",
-        "m_en": "self-assessment"
-    },
-    {
-        "type": "ET",
-        "m_fr": "avoir l'intention de",
-        "m_en": "to intend to"
-    },
-    {
-        "type": "ET",
-        "m_fr": "voisin",
-        "m_en": "neighbor"
-    },
-    {
-        "type": "ET",
-        "m_fr": "plus loin",
-        "m_en": "further"
-    },
-    {
-        "type": "ET",
-        "m_fr": "deviner",
-        "m_en": "to guess"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "inonder",
-            "noyer",
-            "irriguer"
-        ],
-        "m_en": "to flood"
-    },
-    {
-        "type": "ET",
-        "m_fr": "autrement",
-        "m_en": "otherwoise"
-    },
-    {
-        "type": "ET",
-        "m_fr": "faire suivre, expédier",
-        "m_en": "to forward"
-    },
-    {
-        "type": "ET",
-        "m_fr": "atteindre, réaliser",
-        "m_en": "to achieve"
-    },
-    {
-        "type": "ET",
-        "m_fr": "à chaque fois que",
-        "m_en": "whenever"
-    },
-    {
-        "type": "ET",
-        "m_fr": "précédent",
-        "m_en": "previous"
-    },
-    {
-        "type": "ET",
-        "m_fr": "déjà",
-        "m_en": "already"
-    },
-    {
-        "type": "ET",
-        "m_fr": "maitrise",
-        "m_en": "mastery"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "biaiser",
-            "fausser"
-        ],
-        "m_en": "to skew"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "commuter",
-            "passer d'un état à un autre"
-        ],
-        "m_en": "to switch"
-    },
-    {
-        "type": "ET",
-        "m_fr": "lâcher, abandonner",
-        "m_en": "to drop"
-    },
-    {
-        "type": "ET",
-        "m_fr": "épine dorsale",
-        "m_en": "backbone"
-    },
-    {
-        "type": "ET",
-        "m_fr": "à distance",
-        "m_en": "remote"
-    },
-    {
-        "type": "ET",
-        "m_fr": "ni...ni...",
-        "m_en": "neither...or..."
-    },
-    {
-        "type": "ET",
-        "m_fr": "parler de",
-        "m_en": "to deal with"
-    },
-    {
-        "type": "ET",
-        "m_fr": "donc, alors",
-        "m_en": "therefore"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "donner",
-            "fournir"
-        ],
-        "m_en": "to provide"
-    },
-    {
-        "type": "ET",
-        "m_fr": "esquisser, indiquer",
-        "m_en": "to outline"
-    },
-    {
-        "type": "OU",
-        "m_fr": "comprehension",
-        "m_en": [
-            "comprehension",
-            "understanding"
-        ]
-    },
-    {
-        "type": "OU",
-        "m_fr": "un but",
-        "m_en": [
-            "a purpose",
-            "a goal"
-        ]
-    },
-    {
-        "type": "ET",
-        "m_fr": "ce n'est pas la peine",
-        "m_en": "there is no need"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "reconnaissance",
-            "constatation",
-            "accusé de réception"
-        ],
-        "m_en": "acknowledgment"
     },
     {
         "type": "Et",
-        "m_fr": "quoi que ce soit d'autre",
-        "m_en": "abything else"
+        "m_fr": "notre, mes",
+        "m_en": "our"
+    },
+    {
+        "type": "Et",
+        "m_fr": "votre, vos",
+        "m_en": "your"
     },
     {
         "type": "ET",
-        "m_fr": "avec quelle fréquence",
-        "m_en": "how often"
+        "m_fr": "leur, leurs",
+        "m_en": "their"
     },
     {
         "type": "ET",
-        "m_fr": "connaissance",
-        "m_en": "knowledge"
+        "m_fr": "la mien, la mienne, les miens, les miennes",
+        "m_en": "mine"
     },
     {
-        "type": "ET",
-        "m_fr": "au sein de",
-        "m_en": "within"
-    },
-    {
-        "type": "ET",
-        "m_fr": "principale",
-        "m_en": "major"
+        "type": "Et",
+        "m_fr": "les tiens, les tiennes, le votre, la votre, les votres",
+        "m_en": "yours"
     },
     {
         "type": "OU",
-        "m_fr": [
-            "mesurer",
-            "évaluer"
-        ],
-        "m_en": "to gauge"
-    },
-    {
-        "type": "ET",
-        "m_fr": "avoir des difficulter",
-        "m_en": "to have a trouble"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "présumer",
-            "supposer"
-        ],
-        "m_en": "to assumer"
-    },
-    {
-        "type": "ET",
-        "m_fr": "sans fil",
-        "m_en": "wireless"
-    },
-    {
-        "type": "ET",
-        "m_fr": "numérique",
-        "m_en": "digital"
-    },
-    {
-        "type": "OU",
-        "m_fr": "merveille",
+        "m_fr": "le sien, la sienne, les siens, les siennes",
         "m_en": [
-            "marvel",
-            "wonder"
+            "his",
+            "hers",
+            "its"
         ]
     },
     {
         "type": "ET",
-        "m_fr": "manuscrit",
-        "m_en": "handwritten"
+        "m_fr": "le nôtre, la nôtre, les nôtres",
+        "m_en": "ours"
     },
     {
         "type": "ET",
-        "m_fr": "retranscrire",
-        "m_en": "to retranscribe"
+        "m_fr": "le leur, la leur, les leurs",
+        "m_en": "theirs"
     },
     {
         "type": "ET",
-        "m_fr": "sans",
-        "m_en": "without"
+        "m_fr": "soit-même",
+        "m_en": "oneself"
     },
     {
         "type": "ET",
-        "m_fr": "en effet",
-        "m_en": "indeed"
-    },
-    {
-        "type": "Et",
-        "m_fr": "pas besoin de",
-        "m_en": "no need to"
+        "m_fr": "moi-même, me, m'",
+        "m_en": "myself"
     },
     {
         "type": "ET",
-        "m_fr": "pianoter",
-        "m_en": "to tap away"
+        "m_fr": "toi-même, vous-même, te t'",
+        "m_en": "yourself"
+    },
+    {
+        "type": "ET",
+        "m_fr": "lui-même, se, s'",
+        "m_en": "himself"
     },
     {
         "type": "OU",
-        "m_fr": [
-            "briller",
-            "scintiller"
-        ],
-        "m_en": "to glitter"
+        "m_fr": "elle-même",
+        "m_en": [
+            "herself",
+            "itself"
+        ]
     },
     {
         "type": "ET",
-        "m_fr": "tout ce qui brille n'est pas or",
-        "m_en": "all that glitters is not gold"
+        "m_fr": "nous-même",
+        "m_en": "ourselves"
     },
     {
         "type": "ET",
-        "m_fr": "escalier",
-        "m_en": "stairway"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "magazin",
-            "entrepot"
-        ],
-        "m_en": "a store"
+        "m_fr": "eux-même, elle-même",
+        "m_en": "themself"
     },
     {
         "type": "ET",
-        "m_fr": "arriver",
-        "m_en": "to get, got, got"
+        "m_fr": "moi, à soi, m'",
+        "m_en": "me"
     },
     {
         "type": "ET",
-        "m_fr": "une signification",
-        "m_en": "a meaning"
+        "m_fr": "toi, à toi, t', vous, à vous",
+        "m_en": "you"
     },
     {
         "type": "ET",
-        "m_fr": "un ruisseau",
-        "m_en": "a brook"
+        "m_fr": "le, lui",
+        "m_en": "him"
     },
     {
         "type": "ET",
-        "m_fr": "penser",
-        "m_en": "to think, thought, thought"
+        "m_fr": "la, lui",
+        "m_en": "her"
     },
     {
         "type": "ET",
-        "m_fr": "une pensée",
-        "m_en": "a thought"
+        "m_fr": "le, lui, la, lui (=>objet)",
+        "m_en": "it"
     },
     {
         "type": "ET",
-        "m_fr": "plein de doute",
-        "m_en": "misgiven"
-    },
-    {
-        "type": "ET",
-        "m_fr": "se demander",
-        "m_en": "to wonder"
-    },
-    {
-        "type": "ET",
-        "m_fr": "un anneau",
-        "m_en": "a ring"
-    },
-    {
-        "type": "ET",
-        "m_fr": "la fumée",
-        "m_en": "smoke"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "murmurer",
-            "chuchoter"
-        ],
-        "m_en": "to whisper"
-    },
-    {
-        "type": "ET",
-        "m_fr": "se lever(météo)",
-        "m_en": "to dawn"
-    },
-    {
-        "type": "OU",
-        "m_fr": [
-            "l'aube",
-            "un aurore"
-        ],
-        "m_en": "dawn"
-    },
-    {
-        "type": "ET",
-        "m_fr": "crepuscule",
-        "m_en": "dusk"
-    },
-    {
-        "type": "ET",
-        "m_fr": "du matin au soir",
-        "m_en": "from dawn to dusk"
-    },
-    {
-        "type": "ET",
-        "m_fr": "rire",
-        "m_en": "to laugh"
-    },
-    {
-        "type": "ET",
-        "m_fr": "un rire",
-        "m_en": "laughter"
-    },
-    {
-        "type": "ET",
-        "m_fr": "un remu ménage",
-        "m_en": "bustle"
-    },
-    {
-        "type": "ET",
-        "m_fr": "une haie",
-        "m_en": "a hedgerow"
-    },
-    {
-        "type": "ET",
-        "m_fr": "un chemin",
-        "m_en": "a path"
-    },
-    {
-        "type": "ET",
-        "m_fr": "bourdonner",
-        "m_en": "to hum"
-    },
-    {
-        "type": "ET",
-        "m_fr": "souffler",
-        "m_en": "to blow, blew, blown"
-    },
-    {
-        "type": "ET",
-        "m_fr": "enfin",
-        "m_en": "at last"
-    },
-    {
-        "type": "ET",
-        "m_fr": "au moins",
-        "m_en": "at least"
-    },
-    {
-        "type": "ET",
-        "m_fr": "un air(de musique)",
-        "m_en": "a tune"
-    },
-    {
-        "type": "ET",
-        "m_fr": "changer de ton",
-        "m_en": "to sing another tune"
-    },
-    {
-        "type": "ET",
-        "m_fr": "nettoyage de printemps",
-        "m_en": "spring clean"
-    },
-    {
-        "type": "ET",
-        "m_fr": "mentir",
-        "m_en": "to lie"
-    },
-    {
-        "type": "ET",
-        "m_fr": "allonger",
-        "m_en": "to lie lay lain"
-    },
-    {
-        "type": "ET",
-        "m_fr": [
-            "études de troisième cycle",
-            "études postuniversitaires"
-        ],
-        "m_en": "postgraduate studies"
-    },
-    {
-        "type": "ET",
-        "m_fr": "cours en ligne gratuits",
-        "m_en": "free online classes"
-    },
-    {
-        "type": "ET",
-        "m_fr": "travail numérique",
-        "m_en": "digital work"
-    },
-    {
-        "type": "ET",
-        "m_fr": [
-            "origine ouvrière",
-            "milieu ouvrier"
-        ],
-        "m_en": "working-class background"
-    },
-    {
-        "type": "ET",
-        "m_fr": "défi pour les entreprises",
-        "m_en": "challenge for companies"
-    },
-    {
-        "type": "ET",
-        "m_fr": "robots industriels programmables",
-        "m_en": "programmable industrial robots"
-    },
-    {
-        "type": "ET",
-        "m_fr": "déchets électroniques",
-        "m_en": "electronic waste"
-    },
-    {
-        "type": "ET",
-        "m_fr": "les trois lois de la robotique",
-        "m_en": "the three laws of robotics"
-    },
-    {
-        "type": "ET",
-        "m_fr": "Afrique alternative non colonisée",
-        "m_en": "alternative uncolonized Africa"
-    },
-    {
-        "type": "ET",
-        "m_fr": "idées qui méritent d’être diffusées",
-        "m_en": "ideas worth spreadin"
-    },
-    {
-        "type": "ET",
-        "m_fr": "conditions de vie épouvantables",
-        "m_en": "dreadful living conditions"
-    },
-    {
-        "type": "ET",
-        "m_fr": "forte densité de population",
-        "m_en": "high density of citizens"
-    },
-    {
-        "type": "ET",
-        "m_fr": "loi sur les droits civiques",
-        "m_en": "civil Rights Act"
-    },
-    {
-        "type": "ET",
-        "m_fr": "méfiance envers la démocratie",
-        "m_en": "distrust in democracy"
-    },
-    {
-        "type": "ET",
-        "m_fr": "détérioration de l’accès à l’information pour les citoyens",
-        "m_en": "deterioration of people's access to information"
-    },
-    {
-        "type": "ET",
-        "m_fr": "magnat des médias",
-        "m_en": "media tycoon"
-    },
-    {
-        "type": "ET",
-        "m_fr": "opérations de dissimulation pendant la guerre du Vietnam",
-        "m_en": "cover-up operations during the Vietnam war"
-    },
-    {
-        "type": "ET",
-        "m_fr": "peur",
-        "m_en": "fear"
-    },
-    {
-        "type": "ET",
-        "m_fr": "craindre",
-        "m_en": "to fear"
-    },
-    {
-        "type": "ET",
-        "m_fr": "affrontement mortel",
-        "m_en": "deadly confrontation"
-    },
-    {
-        "type": "ET",
-        "m_fr": "saluer des foules",
-        "m_en": "greet crowds of people"
+        "m_fr": "eux, à eux, elle, à elle, leurs, les",
+        "m_en": "them"
     }
 ]
