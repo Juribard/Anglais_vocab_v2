@@ -1,0 +1,39 @@
+Ho;9h;nine
+Ho;9h15;quarter past nine
+Ho;9h45;quarter to ten
+Ho;9h30;half past nine
+Ho;9h "pile"; nine on the dot
+Ho;9h20;twenty past nine
+Ho;9h40;twenty to ten
+Ho;9h03;three minutes past nine
+ET;midi;noon
+ET;minuit;midnight
+ET;mon, ma, mes;my
+ET;ton, ta, tes;your
+OU;son, sa, ses;his / her / its
+Et;notre, mes; our
+Et;votre, vos;your
+ET;leur, leurs; their
+ET;la mien, la mienne, les miens, les miennes; mine 
+Et;les tiens, les tiennes, le votre, la votre, les votres; yours
+OU;le sien, la sienne, les siens, les siennes;his / hers / its
+ET;le nôtre, la nôtre, les nôtres;ours
+ET;le leur, la leur, les leurs;theirs
+ET;soit-même;oneself
+ET;moi-même, me, m';myself
+ET;toi-même, vous-même, te t'; yourself
+ET;lui-même, se, s';himself
+OU;elle-même;herself / itself
+ET;nous-même;ourselves
+ET;eux-même, elle-même;themself
+ET;moi, à soi, m';me
+ET;toi, à toi, t', vous, à vous;you
+ET;le, lui;him
+ET;la, lui;her
+ET; le, lui, la, lui (=>objet);it 
+ET;eux, à eux, elle, à elle, leurs, les;them
+
+
+
+
+

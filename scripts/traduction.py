@@ -28,7 +28,7 @@ def conversion(txt_path, json_path):
 
 
 # Appel de la fonction pour convertir voc_R311.txt en voc.js
-conversion('voc_R311.txt', 'voc.json')
+conversion('voc_R309G.txt', 'voc.json')
 
 def json_to_js(json_path, js_path):
     with open(json_path, 'r', encoding='utf-8') as f:
