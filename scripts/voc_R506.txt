@@ -1,0 +1,44 @@
+# option(ET= exclusif;OU=choix);mot(s) français;mot(s) anglais
+ET;envahir;to invade
+OU;se débrouiller pour,réussir à;to manage to / to succeed in + V-ing
+ET;amèrement;bitterly
+ET;néanmoins;notwithstanding
+OU;notable / visible;noticeable
+ET;une baisse sensible;a noticeable fall
+ET;sensible;sensitive
+ET;attendre quelque chose de quelqu'un;to expect someone to do something
+OU;bête / stupide / idiot;foolish
+ET;un idiot;a fool
+ET;faire un effort;to make an effort
+ET;faire de son mieux;to do one's best
+ET;faire une faute;to make a mistake
+ET;réussir;to succeed
+ET;bavarder;to chatter
+ET;assumer;to carry out
+ET;être à court d'arguments;to be at a loss for words
+ET;arrêter de faire;to give up + V-ing
+ET;fixer;to set
+ET;attirer l'attention de;to attract attention to
+ET;fatigant;tiring
+OU;extraire / arracher;to extract
+ET;avoir envie de;to feel like + V-ing
+ET;une ceinture;a belt
+ET;desserrer;to loosen
+ET;serrer;to tighten
+ET;en faite;actually
+ET;avantage;benefit
+ET;hasard;chance
+ET;moteur;engine
+ET;le permis;the licence
+ET;défiler;to march
+ET;humidité;moisture
+ET;agent conservateur;preservative
+ET;nom de famille;surname
+ET;user;to wear out
+ET;prétendre;to claim
+ET;pétrole;oil
+ET;notice;instruction
+ET;éventuellement;possibly
+OU;engagé;commited / involved
+ET;injurier;to insult
+ET;crier;to scream
