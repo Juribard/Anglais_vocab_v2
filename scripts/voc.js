@@ -1,193 +1,233 @@
 const dictionnaire = [
     {
-        "type": "Ho",
-        "m_fr": "9h",
-        "m_en": "nine"
-    },
-    {
-        "type": "Ho",
-        "m_fr": "9h15",
-        "m_en": "quarter past nine"
-    },
-    {
-        "type": "Ho",
-        "m_fr": "9h45",
-        "m_en": "quarter to ten"
-    },
-    {
-        "type": "Ho",
-        "m_fr": "9h30",
-        "m_en": "half past nine"
-    },
-    {
-        "type": "Ho",
-        "m_fr": "9h \"pile\"",
-        "m_en": "nine on the dot"
-    },
-    {
-        "type": "Ho",
-        "m_fr": "9h20",
-        "m_en": "twenty past nine"
-    },
-    {
-        "type": "Ho",
-        "m_fr": "9h40",
-        "m_en": "twenty to ten"
-    },
-    {
-        "type": "Ho",
-        "m_fr": "9h03",
-        "m_en": "three minutes past nine"
-    },
-    {
         "type": "ET",
-        "m_fr": "midi",
-        "m_en": "noon"
-    },
-    {
-        "type": "ET",
-        "m_fr": "minuit",
-        "m_en": "midnight"
-    },
-    {
-        "type": "ET",
-        "m_fr": "mon, ma, mes",
-        "m_en": "my"
-    },
-    {
-        "type": "ET",
-        "m_fr": "ton, ta, tes",
-        "m_en": "your"
+        "m_fr": "envahir",
+        "m_en": "to invade"
     },
     {
         "type": "OU",
-        "m_fr": "son, sa, ses",
+        "m_fr": "se débrouiller pour,réussir à",
         "m_en": [
-            "his",
-            "her",
-            "its"
-        ]
-    },
-    {
-        "type": "Et",
-        "m_fr": "notre, mes",
-        "m_en": "ours"
-    },
-    {
-        "type": "Et",
-        "m_fr": "votre, vos",
-        "m_en": "your"
-    },
-    {
-        "type": "ET",
-        "m_fr": "leur, leurs",
-        "m_en": "their"
-    },
-    {
-        "type": "ET",
-        "m_fr": "la mien, la mienne, les miens, les miennes",
-        "m_en": "mine"
-    },
-    {
-        "type": "Et",
-        "m_fr": "les tiens, les tiennes, le votre, la votre, les votres",
-        "m_en": "yours"
-    },
-    {
-        "type": "OU",
-        "m_fr": "le sien, la sienne, les siens, les siennes",
-        "m_en": [
-            "his",
-            "hers",
-            "its"
+            "to manage to",
+            "to succeed in + V-ing"
         ]
     },
     {
         "type": "ET",
-        "m_fr": "le nôtre, la nôtre, les nôtres",
-        "m_en": "ours"
+        "m_fr": "amèrement",
+        "m_en": "bitterly"
     },
     {
         "type": "ET",
-        "m_fr": "le leur, la leur, les leurs",
-        "m_en": "theirs"
-    },
-    {
-        "type": "ET",
-        "m_fr": "soit-même",
-        "m_en": "oneself"
-    },
-    {
-        "type": "ET",
-        "m_fr": "moi-même, me, m'",
-        "m_en": "myself"
-    },
-    {
-        "type": "ET",
-        "m_fr": "toi-même, vous-même, te t'",
-        "m_en": "yourself"
-    },
-    {
-        "type": "ET",
-        "m_fr": "lui-même, se, s'",
-        "m_en": "himself"
+        "m_fr": "néanmoins",
+        "m_en": "notwithstanding"
     },
     {
         "type": "OU",
-        "m_fr": "elle-même",
+        "m_fr": [
+            "notable",
+            "visible"
+        ],
+        "m_en": "noticeable"
+    },
+    {
+        "type": "ET",
+        "m_fr": "une baisse sensible",
+        "m_en": "a noticeable fall"
+    },
+    {
+        "type": "ET",
+        "m_fr": "sensible",
+        "m_en": "sensitive"
+    },
+    {
+        "type": "ET",
+        "m_fr": "attendre quelque chose de quelqu'un",
+        "m_en": "to expect someone to do something"
+    },
+    {
+        "type": "OU",
+        "m_fr": [
+            "bête",
+            "stupide",
+            "idiot"
+        ],
+        "m_en": "foolish"
+    },
+    {
+        "type": "ET",
+        "m_fr": "un idiot",
+        "m_en": "a fool"
+    },
+    {
+        "type": "ET",
+        "m_fr": "faire un effort",
+        "m_en": "to make an effort"
+    },
+    {
+        "type": "ET",
+        "m_fr": "faire de son mieux",
+        "m_en": "to do one's best"
+    },
+    {
+        "type": "ET",
+        "m_fr": "faire une faute",
+        "m_en": "to make a mistake"
+    },
+    {
+        "type": "ET",
+        "m_fr": "réussir",
+        "m_en": "to succeed"
+    },
+    {
+        "type": "ET",
+        "m_fr": "bavarder",
+        "m_en": "to chatter"
+    },
+    {
+        "type": "ET",
+        "m_fr": "assumer",
+        "m_en": "to carry out"
+    },
+    {
+        "type": "ET",
+        "m_fr": "être à court d'arguments",
+        "m_en": "to be at a loss for words"
+    },
+    {
+        "type": "ET",
+        "m_fr": "arrêter de faire",
+        "m_en": "to give up + V-ing"
+    },
+    {
+        "type": "ET",
+        "m_fr": "fixer",
+        "m_en": "to set"
+    },
+    {
+        "type": "ET",
+        "m_fr": "attirer l'attention de",
+        "m_en": "to attract attention to"
+    },
+    {
+        "type": "ET",
+        "m_fr": "fatigant",
+        "m_en": "tiring"
+    },
+    {
+        "type": "OU",
+        "m_fr": [
+            "extraire",
+            "arracher"
+        ],
+        "m_en": "to extract"
+    },
+    {
+        "type": "ET",
+        "m_fr": "avoir envie de",
+        "m_en": "to feel like + V-ing"
+    },
+    {
+        "type": "ET",
+        "m_fr": "une ceinture",
+        "m_en": "a belt"
+    },
+    {
+        "type": "ET",
+        "m_fr": "desserrer",
+        "m_en": "to loosen"
+    },
+    {
+        "type": "ET",
+        "m_fr": "serrer",
+        "m_en": "to tighten"
+    },
+    {
+        "type": "ET",
+        "m_fr": "en faite",
+        "m_en": "actually"
+    },
+    {
+        "type": "ET",
+        "m_fr": "avantage",
+        "m_en": "benefit"
+    },
+    {
+        "type": "ET",
+        "m_fr": "hasard",
+        "m_en": "chance"
+    },
+    {
+        "type": "ET",
+        "m_fr": "moteur",
+        "m_en": "engine"
+    },
+    {
+        "type": "ET",
+        "m_fr": "le permis",
+        "m_en": "the licence"
+    },
+    {
+        "type": "ET",
+        "m_fr": "défiler",
+        "m_en": "to march"
+    },
+    {
+        "type": "ET",
+        "m_fr": "humidité",
+        "m_en": "moisture"
+    },
+    {
+        "type": "ET",
+        "m_fr": "agent conservateur",
+        "m_en": "preservative"
+    },
+    {
+        "type": "ET",
+        "m_fr": "nom de famille",
+        "m_en": "surname"
+    },
+    {
+        "type": "ET",
+        "m_fr": "user",
+        "m_en": "to wear out"
+    },
+    {
+        "type": "ET",
+        "m_fr": "prétendre",
+        "m_en": "to claim"
+    },
+    {
+        "type": "ET",
+        "m_fr": "pétrole",
+        "m_en": "oil"
+    },
+    {
+        "type": "ET",
+        "m_fr": "notice",
+        "m_en": "instruction"
+    },
+    {
+        "type": "ET",
+        "m_fr": "éventuellement",
+        "m_en": "possibly"
+    },
+    {
+        "type": "OU",
+        "m_fr": "engagé",
         "m_en": [
-            "herself",
-            "itself"
+            "commited",
+            "involved"
         ]
     },
     {
         "type": "ET",
-        "m_fr": "nous-même",
-        "m_en": "ourselves"
+        "m_fr": "injurier",
+        "m_en": "to insult"
     },
     {
         "type": "ET",
-        "m_fr": "eux-même, elles-même",
-        "m_en": "themself"
-    },
-    {
-        "type": "ET",
-        "m_fr": "moi, à soi, m'",
-        "m_en": "me"
-    },
-    {
-        "type": "ET",
-        "m_fr": "toi, à toi, t', vous, à vous",
-        "m_en": "you"
-    },
-    {
-        "type": "ET",
-        "m_fr": "le, lui",
-        "m_en": "him"
-    },
-    {
-        "type": "ET",
-        "m_fr": "la, lui",
-        "m_en": "her"
-    },
-    {
-        "type": "ET",
-        "m_fr": "le, lui, la, lui (=>objet)",
-        "m_en": "it"
-    },
-    {
-        "type": "ET",
-        "m_fr": "nous, à nous",
-        "m_en": "us"
-    },
-    {
-        "type": "ET",
-        "m_fr": "vous, à vous",
-        "m_en": "you"
-    },
-    {
-        "type": "ET",
-        "m_fr": "eux, à eux, elle, à elle, leurs, les",
-        "m_en": "them"
+        "m_fr": "crier",
+        "m_en": "to scream"
     }
 ];

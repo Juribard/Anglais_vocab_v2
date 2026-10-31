@@ -1,5 +1,6 @@
 import json
 #python traduction.py -> dans le cas ou le scripts est dissident
+# format fichier.txt: option(ET= exclusif;OU=choix);mot(s) français;mot(s) anglais
 def conversion(txt_path, json_path):
     dictionnaire = []
     with open(txt_path, 'r', encoding='utf-8') as f:
@@ -28,7 +29,7 @@ def conversion(txt_path, json_path):
 
 
 # Appel de la fonction pour convertir voc_R311.txt en voc.js
-conversion('voc_R309G.txt', 'voc.json')
+conversion('voc_R505.txt', 'voc.json')
 
 def json_to_js(json_path, js_path):
     with open(json_path, 'r', encoding='utf-8') as f:

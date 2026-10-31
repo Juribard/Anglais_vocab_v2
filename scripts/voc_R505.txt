@@ -1,4 +1,3 @@
-# option(ET= exclusif;OU=choix);mot(s) français;mot(s) anglais
 ET;envahir;to invade
 OU;se débrouiller pour,réussir à;to manage to / to succeed in + V-ing
 ET;amèrement;bitterly
